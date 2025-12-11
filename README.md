@@ -29,7 +29,11 @@ In this project, we focused on sales forecasting. We used historical sales data 
 4. **Performance Evaluation:**  
    Each model was trained and evaluated on its ability to predict future sales. We used metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and Mean Absolute Percentage Error (MAPE) to assess prediction accuracy.
 
+
+
+*This project demonstrates the practical use of recurrent neural networks for time-series forecasting in a sales context, highlighting different approaches and their  comparative performance.
+
+
 ## Credits
 * Author: Azami Hassani Adnane.
 * Supervisor: Prof. Masrour Tawfik.
-This project demonstrates the practical use of recurrent neural networks for time-series forecasting in a sales context, highlighting different approaches and their comparative performance.
