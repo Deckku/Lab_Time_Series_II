@@ -1,5 +1,4 @@
 # Lab_Time_Series_II
-# Time Series Sales Forecasting with Recurrent Neural Networks
 
 ## What Is a Time Series?
 
